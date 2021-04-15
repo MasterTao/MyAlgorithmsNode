@@ -18,6 +18,12 @@
 
 ## 动态规划
 - 蓄水池算法：com.monkey.dp.Code01_Trap
-- 编辑距离：com.monkey.dp.Code02_MinDistance  
-- 最长递增子序列：
+- 编辑距离：com.monkey.dp.Code02_MinDistance
+- **贴纸拼词**：com.monkey.dp.Code03_MinStickers  
+  - **要再看一遍**
+- 最长递增子序列：com.monkey.dp.Code04_LengthOfLIS
 - 背包问题：
+
+
+## leetcode
+- [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
