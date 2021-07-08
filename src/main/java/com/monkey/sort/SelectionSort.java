@@ -38,9 +38,6 @@ public class SelectionSort {
         arr[j] = tmp;
     }
 
-    // TODO 要尝试写对数器
-
-
     public static void main(String[] args) {
         int[] arr = new int[] {9,6,1,-1,3,4,3,6,5,7,8,4,2};
         int[] res = selectionSort(arr);
